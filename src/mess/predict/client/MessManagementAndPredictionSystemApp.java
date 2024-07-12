@@ -86,7 +86,6 @@ public class MessManagementAndPredictionSystemApp {
 						{
 						case 1:
 							int choiceM3;
-						
 							boolean temp = true;
 							do {
 								System.out.println("-----------------> CANDIDATE PAGE <----------------\n");
